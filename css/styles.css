@@ -58,7 +58,7 @@ input:checked{
     margin-left: 50px;
 }
 
-*{
+label{
     text-transform: uppercase;
 }
 
